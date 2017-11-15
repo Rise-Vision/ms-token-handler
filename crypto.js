@@ -1,6 +1,6 @@
 const crypto = require("crypto");
 
-export default {
+module.exports = {
   encryptAndHash(obj, mstokenKey) {
     const cipherKey = Buffer.from(mstokenKey, "hex")
     const inputBuffer = Buffer.from(JSON.stringify(obj));
