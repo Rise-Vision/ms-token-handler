@@ -1,6 +1,6 @@
 {
   "name": "ms-token-handler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Handles and verifies MS token",
   "main": "index.js",
   "scripts": {
@@ -17,12 +17,13 @@
   },
   "homepage": "https://github.com/Rise-Vision/ms-token-handler#readme",
   "devDependencies": {
-    "eslint": "^4.11.0",
+    "eslint": "^6.8.0",
+    "mkdirp": "^0.5.3",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-node": "^5.2.1",
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-standard": "^3.0.1",
-    "mocha": "^4.0.1"
+    "mocha": "^7.1.1"
   }
 }
