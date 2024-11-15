@@ -17,13 +17,12 @@
   },
   "homepage": "https://github.com/Rise-Vision/ms-token-handler#readme",
   "devDependencies": {
-    "eslint": "^8.57.1",
+    "eslint": "^9.14.0",
     "mkdirp": "^3.0.1",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^6.6.0",
-    "eslint-plugin-standard": "^5.0.0",
+    "eslint-plugin-promise": "^7.1.0",
     "mocha": "^10.8.2"
   }
 }
