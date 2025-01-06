@@ -22,7 +22,7 @@
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^6.6.0",
-    "mocha": "^10.8.2"
+    "eslint-plugin-promise": "^7.2.1",
+    "mocha": "^11.0.1"
   }
 }
